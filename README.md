@@ -25,4 +25,4 @@ I'm all ears! Please feel free to work off the original code and submit a pull r
 
 ### A quick note on the code
 
-The majority of the code here is either entirely or heavily based on the instructor's code that being said, if I made any changes that I thought were useful it's just because I found them useful...you may not, and that's ok! A lot of the syntax in the masterclass is slightly outdated so where appropriate I have updated it to ES6.
+The majority of the code here is based on the instructor's code. That being said, if I made any changes that I thought were useful it's just because I found them useful...you may not, and that's ok! A lot of the syntax in the masterclass is slightly outdated so where appropriate I have updated it to ES6.
